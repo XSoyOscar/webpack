@@ -10,5 +10,8 @@
     "webpack"
   ],
   "author": "Oscar González",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "4.32.2"
+  }
 }
